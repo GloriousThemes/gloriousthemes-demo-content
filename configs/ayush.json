@@ -2,7 +2,7 @@
     "name": "Ayush",
     "slug": "ayush",
     "version": "1.0.0",
-    "homepage": "https://gloriousthemes.com/wordpress-themes/ayush/?utm_source=demo-import-screen&utm_medium=buy-now-link&utm_campaign=zakra-pricing",
+    "homepage": "https://gloriousthemes.com/wordpress-themes/ayush/?utm_source=demo-import-screen&utm_medium=buy-now-link&utm_campaign=ayush-pricing",
     "categories": {
       "all"        : "All",
       "blog"       : "Blog",
@@ -19,7 +19,7 @@
       "elementor": "Elementor"
     },
     "demos": {
-      "ayush-pro": {
+      "ayush": {
         "title": "Pro",
         "preview": "https://demo.gloriousthemes.com/ayush-pro/",
         "description": "WordPress Template Site for All Kind of Creative Websites like Agency, Company, Organizations, Portfolio",
